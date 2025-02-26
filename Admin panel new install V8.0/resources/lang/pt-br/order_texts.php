@@ -1,9 +1,9 @@
 <?php
 
 return [
-    'searching_for_delivery_man'=>'Searching for Deliveryman',
-    'accepted_by_delivery_man'=>'Accepted by Deliveryman',
-    'preparing_in_restaurants'=>'Preparing in Restaurants',
-    'picked_up'=>'Picked Up',
-    'dashboard_order_statistics'=>'Dashboard Order Statistics',
+    'searching_for_delivery_man'=>'Procurando Entregador',
+    'accepted_by_delivery_man'=>'Aceito pelo Entregador',
+    'preparing_in_restaurants'=>'Preparando nos Restaurantes',
+    'picked_up'=>'Retirado',
+    'dashboard_order_statistics'=>'Estatísticas de Pedidos do Painel',
 ];
